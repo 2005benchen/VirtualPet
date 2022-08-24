@@ -2,7 +2,9 @@ void setup(){
 size(400,400);
 background(255,255,255);
 }
- 
+
+void draw() {
+
 //beak
 fill(255,188,0);
 triangle(125,125,105,105,80,125);
